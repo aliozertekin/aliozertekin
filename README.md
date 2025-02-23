@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **game development** and exploring **low-level programming**.
 - 🌱 I’m currently learning **C++ and game programming techniques**.
-- 👨‍💻 Check out my projects: **[Dwarven-Depths](https://github.com/aliozertekin/Dwarven-Depths)** and **[BMPCPPLIB](https://github.com/aliozertekin/BMPCPPLIB)**.
+- 👨‍💻 Check out my projects: **[Dwarven-Depths](https://github.com/aliozertekin/Dwarven-Depths)**, **[RogueMiner](https://github.com/aliozertekin/RogueMiner)** and **[BMPCPPLIB](https://github.com/aliozertekin/BMPCPPLIB)**.
 - 💬 Ask me about **C++, Python, game programming, or anything related to software development**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ali-%C3%B6zer-tekin-2a669327a/)** or **[Medium](https://medium.com/@aliozertekin)**.
 - ⚡ Fun fact: **I love game programming and creating immersive experiences!**
