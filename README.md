@@ -33,8 +33,8 @@
 <h3 align="left">My Projects:</h3>
 <p align="left">
   <a href="https://github.com/aliozertekin/Dwarven-Depths" target="_blank">Dwarven-Depths</a> - A game project I'm working on.<br>
-  <a href="https://github.com/aliozertekin/BMPCPPLIB" target="_blank">BMPCPPLIB</a> - A C++ library for working with BMP images.
-  <a href="https://github.com/aliozertekin/RogueMiner" target="_blank">RogueMiner</a> - A grid-based mining game made with SFML and C++.
+  <a href="https://github.com/aliozertekin/BMPCPPLIB" target="_blank">BMPCPPLIB</a> - A C++ library for working with BMP images.<br>
+  <a href="https://github.com/aliozertekin/RogueMiner" target="_blank">RogueMiner</a> - A grid-based mining game made with SFML and C++.<br>
 </p
 
 <h3 align="left">GitHub Stats:</h3>
