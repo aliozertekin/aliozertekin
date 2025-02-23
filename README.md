@@ -27,6 +27,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/make/make-original.svg" alt="make" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">My Projects:</h3>
@@ -34,3 +35,9 @@
   <a href="https://github.com/aliozertekin/Dwarven-Depths" target="_blank">Dwarven-Depths</a> - A game project I'm working on.<br>
   <a href="https://github.com/aliozertekin/BMPCPPLIB" target="_blank">BMPCPPLIB</a> - A C++ library for working with BMP images.
 </p
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliozertekin&show_icons=true&theme=dark" alt="aliozertekin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliozertekin&layout=compact&theme=dark" alt="Top Languages" />
+</p>
