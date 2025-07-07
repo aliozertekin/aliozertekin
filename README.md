@@ -17,7 +17,7 @@ An experimental 2D game in early development using SFML. Focuses on dungeon craw
 ### [BMPCPPLIB](https://github.com/aliozertekin/BMPCPPLIB)  
 A lightweight C++ library for working with BMP image files. Built with performance and usability in mind—ideal for low-level image manipulation projects.
 
-### [Flask Inventory System](https://github.com/aliozertekin/flask-inventory-system)  
+### [Flask Inventory System](https://github.com/aliozertekin/flask_inventory_system)  
 A web-based inventory management system built with **Python**, **Flask**, and **PL/SQL**. Features include adding and editing customers, inventories, and general useful ERP utilites.
 
 ### [OSRS Loot Simulator](https://github.com/aliozertekin/osrs-loot-simulator)  
