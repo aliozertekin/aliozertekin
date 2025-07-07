@@ -1,44 +1,52 @@
-<h1 align="center">Hi 👋, I'm Ali Özer Tekin</h1>
-<h3 align="center">A passionate Computer Engineer from Turkey</h3>
+# Ali Özer Tekin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozertekin&label=Profile%20views&color=0e75b6&style=flat" alt="aliozertekin" /> </p>
+**Computer Engineer | Game Developer | Low-Level Programming Enthusiast**
 
-- 🔭 I’m currently working on **game development** and exploring **low-level programming**.
-- 🌱 I’m currently learning **C++ and game programming techniques**.
-- 👨‍💻 Check out my projects: **[Dwarven-Depths](https://github.com/aliozertekin/Dwarven-Depths)**, **[RogueMiner](https://github.com/aliozertekin/RogueMiner)** and **[BMPCPPLIB](https://github.com/aliozertekin/BMPCPPLIB)**.
-- 💬 Ask me about **C++, Python, game programming, or anything related to software development**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ali-%C3%B6zer-tekin-2a669327a/)** or **[Medium](https://medium.com/@aliozertekin)**.
-- ⚡ Fun fact: **I love game programming and creating immersive experiences!**
+I'm a computer engineering student passionate about game development, systems programming, and performance-oriented software. I focus primarily on C++ and have experience building games, contributing to open-source libraries, and developing utility tools.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ali-özer-tekin-2a669327a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-özer-tekin" height="30" width="40" /></a>
-<a href="https://medium.com/@aliozertekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliozertekin" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/make/make-original.svg" alt="make" width="40" height="40"/> </a>
-</p>
+## 🧩 Projects
 
-<h3 align="left">My Projects:</h3>
-<p align="left">
-  <a href="https://github.com/aliozertekin/Dwarven-Depths" target="_blank">Dwarven-Depths</a> - A game project I'm working on.<br>
-  <a href="https://github.com/aliozertekin/BMPCPPLIB" target="_blank">BMPCPPLIB</a> - A C++ library for working with BMP images.<br>
-  <a href="https://github.com/aliozertekin/RogueMiner" target="_blank">RogueMiner</a> - A grid-based mining game made with SFML and C++.<br>
-</p
+### [RogueMiner](https://github.com/aliozertekin/RogueMiner)  
+A roguelike mining game developed using **C++** and **SFML**. Includes procedural dungeon generation, basic combat mechanics, and mining-based progression.
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliozertekin&show_icons=true&theme=dark" alt="aliozertekin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliozertekin&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+### [Dwarven-Depths](https://github.com/aliozertekin/Dwarven-Depths)  
+An experimental 2D game in early development using SFML. Focuses on dungeon crawling, character movement, and pixel-art inspired mechanics.
+
+### [BMPCPPLIB](https://github.com/aliozertekin/BMPCPPLIB)  
+A lightweight C++ library for working with BMP image files. Built with performance and usability in mind—ideal for low-level image manipulation projects.
+
+### [Flask Inventory System](https://github.com/aliozertekin/flask-inventory-system)  
+A web-based inventory management system built with **Python**, **Flask**, and **PL/SQL**. Features include adding and editing customers, inventories, and general useful ERP utilites.
+
+### [OSRS Loot Simulator](https://github.com/aliozertekin/osrs-loot-simulator)  
+A drop simulator for Old School RuneScape written in Python. Simulates boss drop tables with probability logic to estimate long-term loot expectations.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** <p align="left"> <!-- Languages --> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="PL/SQL" width="40" height="40"/> </a> <!-- Tools --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/makefile/makefile-original.svg" alt="Make" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a> <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL Developer" width="40" height="40"/> </a> </p>
+- **Game Dev:** SFML, SDL (basics), tile-based rendering, input systems
+- **Web & Backend:** Flask, SQLite, HTML/CSS, JavaScript, Express.js (learning)
+- **Tools & Systems:** Git, GitHub, CMake, Make, Linux terminal
+- **Other Interests:** Low-level systems, rendering pipelines, image processing basics
+
+---
+
+## 📬 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/ali-%C3%B6zer-tekin-2a669327a/)
+- [Medium](https://medium.com/@aliozertekin)
+
+I’m open to collaboration, code reviews, and game development projects. Feel free to connect.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozertekin&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliozertekin&layout=compact&theme=default)
+
+---
