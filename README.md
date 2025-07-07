@@ -46,7 +46,7 @@ I’m open to collaboration, code reviews, and game development projects. Feel f
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozertekin&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliozertekin&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozertekin&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliozertekin&layout=compact&theme=dark)
 
 ---
