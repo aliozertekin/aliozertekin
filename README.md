@@ -6,7 +6,7 @@ I'm a computer engineering student passionate about game development, systems pr
 
 ---
 
-## 🧩 Projects
+## Projects
 
 ### [RogueMiner](https://github.com/aliozertekin/RogueMiner)  
 A roguelike mining game developed using **C++** and **SFML**. Includes procedural dungeon generation, basic combat mechanics, and mining-based progression.
@@ -25,7 +25,7 @@ A drop simulator for Old School RuneScape written in Python. Simulates boss drop
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 - **Languages:** <p align="left"> <!-- Languages --> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="PL/SQL" width="40" height="40"/> </a> <!-- Tools --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnu/gnu-original.svg" alt="Make" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> </a> <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL Developer" width="40" height="40"/> </a> </p>
 - **Game Dev:** SFML, SDL (basics), tile-based rendering, input systems, Godot
@@ -35,7 +35,7 @@ A drop simulator for Old School RuneScape written in Python. Simulates boss drop
 
 ---
 
-## 📬 Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/ali-%C3%B6zer-tekin-2a669327a/)
 - [Medium](https://medium.com/@aliozertekin)
@@ -44,7 +44,7 @@ I’m open to collaboration, code reviews, and game development projects. Feel f
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozertekin&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliozertekin&layout=compact&theme=dark)
